@@ -1,0 +1,10 @@
+//---Variables SCSS Comment---
+/*---Variables--CSS Comment*/
+
+$body: 'Open Sans', sans-serif; //---making a var and calling it from here---
+$title: 'Sanchez', serif;
+
+body {
+	font-family: $body;
+}
+
